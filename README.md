@@ -4,9 +4,9 @@
 
 Requires **macOS 14 or later and an Apple Silicon Mac**. AI features need at least 8 GB of memory and a separate writing-model download of about 1.12 GB. Clicking **Get started** in the app starts that model download.
 
-The installer is signed with Developer ID and notarized by Apple. DraftKey 0.1.1 and later can check for signed updates from the menu bar or **Settings → About**. You approve installation, and automatic checks can be turned off in About. Updates preserve your license, preferences, and downloaded writing model.
+The installer is signed with Developer ID and notarized by Apple. DraftKey 0.1.2 and later can check for signed updates from the menu bar or **Settings → About**. You approve installation, and automatic checks can be turned off in About. Updates preserve your license, preferences, and downloaded writing model.
 
-If you use the older 0.1.0 build, install the current version once to enable in-app updates.
+If you use 0.1.0 or 0.1.1, install version 0.1.2 or later once to enable in-app updates.
 
 This repository hosts official installers and the signed update feed. The application source is maintained separately.
 
